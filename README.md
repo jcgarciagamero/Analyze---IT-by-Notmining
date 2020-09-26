@@ -23,3 +23,5 @@ Instrucciones para analizar ficheros:</br>
 1 Introducir los ficheros a analizar en la carpeta ficheros.</br>
 
 Ejecuta el script analisis.py: python3 analisis.py</br>
+
+De regalo tenéis una API Key de Notmining
