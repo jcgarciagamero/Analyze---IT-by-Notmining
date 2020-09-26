@@ -25,3 +25,5 @@ Instrucciones para analizar ficheros:</br>
 Ejecuta el script analisis.py: python3 analisis.py</br>
 
 De regalo tenéis una API Key de Notmining
+
+Se recomienda la ejecución en Debian y derivados. Funciona en MAC, pero hay que hacer una serie de instalaciones adicionales.
