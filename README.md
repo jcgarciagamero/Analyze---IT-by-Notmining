@@ -12,7 +12,6 @@ sudo apt-get install git</br>
 git clone https://github.com/SpamScope/mail-parser.git</br>
 cd mail-parser</br>
 sudo python3 setup.py install</br>
-Crea la carpeta ficheros en el directorio donde estén los scripts de python.</br>
 
 Instrucciones para analizar un correo:</br>
 
